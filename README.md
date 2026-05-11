@@ -1,37 +1,36 @@
-# Hi there, I'm Rasel Muntasir! 👋
+# 🚀 Hi, I'm Rasel Muntasir! | AI-Powered Visual Artist & Marketer
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=raselmuntasir&label=Profile%20views&color=0e75b6&style=flat" alt="raselmuntasir" />
-</p>
-
-### 👨‍💻 About Me
-I'm a passionate **Web Developer** and **Video Editor** who loves building modern, interactive web applications and creating cinematic visual stories.
-
-- 🔭 I’m currently working on my **Video Editing Portfolio**
-- 🌱 I’m currently learning **Next.js & Supabase**
-- ⚡ Fun fact: I love to experiment with UI/UX designs!
-
----
-
-### 🛠️ My Tech Stack
-
-**Programming & Web:**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,supabase,vite,vercel" />
-  </a>
-</p>
-
-**Video Editing & Design:**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pr,ae,ps,ai" />
-  </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=raselmuntasir&label=Profile%20Views&color=0e75b6&style=flat-square" alt="raselmuntasir" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📖 My Journey: From a Button Phone to AI-Driven Creation
+My fascination with technology started back in Class 6. With no computer and just a basic button phone, I explored the digital world. What started as curiosity in a local photo studio turned into a deep passion for design. 
+
+From learning **Photoshop & Illustrator** on a borrowed laptop via YouTube, to working at a printing press in Motijheel, and later managing **Meta Ads & Marketing** for top agencies—I've spent years honing my craft. When the AI wave hit, I didn't just survive; I evolved. Today, I combine my years of design experience with the power of **AI and Automation** to deliver cutting-edge results.
+
+---
+
+### 🎨 What I Do Best
+- **Video Editing:** Creating cinematic visual stories (Specialist at Hadia).
+- **Graphic Design:** Branding, social media posts, and professional UI/UX.
+- **AI Implementation:** Leveraging AI for coding, design automation, and content creation.
+- **Marketing Strategy:** Meta Ads expert with a deep understanding of client acquisition.
+
+---
+
+### 🛠️ Tech Stack & Skills
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pr,ae,ps,ai,react,nextjs,tailwind,supabase,vite,vercel,html,css,js,figma" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats & Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raselmuntasir&show_icons=true&theme=tokyonight" alt="Rasel's GitHub Stats" height="170px" />
@@ -40,12 +39,20 @@ I'm a passionate **Web Developer** and **Video Editor** who loves building moder
 
 ---
 
-### 📫 Connect with me:
-<p align="left">
-  <a href="https://facebook.com/your-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/your-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="mailto:your-email@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" /></a>
-</p>
+### 💼 Current Focus
+Currently serving as a **Video Editor & Graphic Designer at Hadia** (since March 2026), focusing on high-quality Islamic product marketing and AI-integrated workflows.
+
+---
+
+### 📬 Let's Collaborate!
+I'm always open to discussing new projects, AI innovations, or creative collaborations.
+
+- **📞 Phone:** [+8801314147868](tel:+8801314147868)
+- **📧 Email:** [raselmoontasir@gmail.com](mailto:raselmoontasir@gmail.com)
+- **🌐 Socials:** 
+  [Facebook](https://www.facebook.com/raselmoontasir) | 
+  [LinkedIn](https://www.linkedin.com/in/raselmuntasir/) | 
+  [Instagram](https://www.instagram.com/raselmoontasir/)
 
 ---
 <p align="center">
