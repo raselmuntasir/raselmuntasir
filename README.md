@@ -24,24 +24,17 @@ From learning **Photoshop & Illustrator** on a borrowed laptop via YouTube, to w
 
 ## 📊 Performance & Insights
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=raselmuntasir&show_icons=true&theme=tokyonight&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raselmuntasir&layout=compact&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=raselmuntasir&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=raselmuntasir&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raselmuntasir&theme=tokyo-night&hide_border=true" />
+
+</div>
 
 ---
-
 ### 💼 Career Snapshot
 Currently serving as a **Video Editor & Graphic Designer at Hadia** (since March 2026), focusing on high-quality Islamic product marketing and AI-integrated workflows.
 
