@@ -26,13 +26,29 @@ From learning **Photoshop & Illustrator** on a borrowed laptop via YouTube, to w
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=raselmuntasir&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![contributions](https://img.shields.io/badge/Contributions-115-7F77DD?style=for-the-badge&logo=github)
+![streak](https://img.shields.io/badge/Current_Streak-1_day-1D9E75?style=for-the-badge&logo=fire)
+![longest](https://img.shields.io/badge/Longest_Streak-5_days-BA7517?style=for-the-badge)
 
-&nbsp;
+</div>
 
-[![Rasel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raselmuntasir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github)](https://github.com/raselmuntasir)
-&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raselmuntasir&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/raselmuntasir)
+<br/>
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-45%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-25%25-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML%2FCSS-18%25-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Open to collaborate](https://img.shields.io/badge/Open_to-Collaborate-0F6E56?style=for-the-badge)
+![Full Stack](https://img.shields.io/badge/Full_Stack-Developer-534AB7?style=for-the-badge)
+![Bangladesh](https://img.shields.io/badge/Based_in-Bangladesh-D85A30?style=for-the-badge)
 
 </div>
 
