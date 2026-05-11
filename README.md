@@ -24,15 +24,21 @@ From learning **Photoshop & Illustrator** on a borrowed laptop via YouTube, to w
 
 ## 📊 Performance & Insights
 
-<div align="center">
-
-![Rasel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raselmuntasir&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raselmuntasir&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raselmuntasir&theme=tokyonight&hide_border=true)
-
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=raselmuntasir&show_icons=true&theme=tokyonight&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raselmuntasir&layout=compact&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=raselmuntasir&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 ---
 
