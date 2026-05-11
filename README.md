@@ -26,11 +26,12 @@ From learning **Photoshop & Illustrator** on a borrowed laptop via YouTube, to w
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=raselmuntasir&theme=tokyonight&hide_border=true" />
+![GitHub followers](https://img.shields.io/github/followers/raselmuntasir?style=for-the-badge&theme=dark)
+![GitHub stars](https://img.shields.io/github/stars/raselmuntasir?style=for-the-badge)
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raselmuntasir&theme=tokyo-night&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=raselmuntasir&theme=tokyonight&hide_border=true" />
 
 </div>
 
