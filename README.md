@@ -30,12 +30,13 @@ From learning **Photoshop & Illustrator** on a borrowed laptop via YouTube, to w
 
 ---
 
-### 📊 GitHub Stats & Insights
+## 📊 GitHub Stats & Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raselmuntasir&show_icons=true&theme=tokyonight" alt="Rasel's GitHub Stats" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raselmuntasir&layout=compact&theme=tokyonight" alt="Top Langs" height="170px" />
-</p>
+<div align="center">
+
+[![Rasel's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=raselmuntasir&theme=tokyo-night&hide_border=true)](https://github.com/raselmuntasir)
+
+</div>
 
 ---
 
