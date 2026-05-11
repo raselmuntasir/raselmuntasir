@@ -1,7 +1,5 @@
-# 🚀 Hi, I'm Rasel Muntasir! | AI-Powered Visual Artist & Marketer
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raselmuntasir&label=Profile%20Views&color=0e75b6&style=flat-square" alt="raselmuntasir" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=250&section=header&text=RASEL%20MUNTASIR&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Visual%20Artist%20|%20Video%20Editor%20|%20AI%20Creator&descSize=25&descAlignY=60" />
 </p>
 
 ---
